@@ -37,6 +37,7 @@ export default function Navbar() {
             </div>
             <div className="navbar-footer">
                 <p className="navbar-footer-text">Ben Magill 2020</p>
+                <p>Version: 0.1.1</p>
             </div>
         </div>
     )

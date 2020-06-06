@@ -3,7 +3,7 @@
     height: 100%;
     width: 260px;
     color: white;
-    position: absolute;
+    position: fixed;
 }
 
 .navbar-title {
@@ -65,8 +65,7 @@
 .navbar-footer {
     position: absolute;
     bottom: 0;
-    padding-top: 20px;
-    padding-bottom: 40px;
+    padding-top: 2px;
     text-align: center;
     width: inherit;
     background-color: inherit;
